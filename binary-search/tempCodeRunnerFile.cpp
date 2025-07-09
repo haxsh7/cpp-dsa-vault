@@ -1,0 +1,3 @@
+
+       int ans = peakIndexInMountainArray(arr);
+        
