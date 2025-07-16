@@ -1,4 +1,4 @@
-// C++ program for optimized implementation of Selection sort
+// C++ program for implementation of Selection sort
 #include<iostream>
 #include<vector>
 using namespace std;
