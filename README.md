@@ -16,3 +16,21 @@ Welcome to **cpp-dsa-vault** – a curated collection of Data Structures and Alg
 ## 📂 Folder Structure
 
 
+📦 DSA Solutions Repository
+├── 📁 2d-arrays
+│   └── Contains solutions related to 2D Array problems (e.g., 90° rotation)
+│
+├── 📁 Array
+│   └── Basic array problems and their solutions
+│
+├── 📁 binary-search
+│   └── Binary search algorithm problems (e.g., Book Allocation Problem)
+│
+├── 📁 sorting-algorithms
+│   └── Common sorting algorithms (e.g., bubble, merge, quick sort)
+│
+├── 📁 sorting-question
+│   └── Specific sorting problem solutions (e.g., Sort Colors)
+│
+└── 📄 README.md
+    └── Overview and structure of the repository
